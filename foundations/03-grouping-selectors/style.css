@@ -1,0 +1,14 @@
+#first, #second {
+    font: "Verdana";
+}
+
+#first {
+    background-color: black;
+    color: white;
+    font-size: 28px;
+}
+
+#second {
+    background-color: yellow;
+    font-size: 28px;
+}
